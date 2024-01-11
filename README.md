@@ -20,18 +20,22 @@ Il a été demandé aux étudiants, regroupés par groupe de 5 à 6 personnes, d
 
 ### Linux
 
-1. Décompressez Astre.tar
+1. Clonez l'application en utilisant la commande suivante dans le terminal :
+
+   ```bash
+   git clone https://github.com/ClemLy/ASTRE.git
+   
 2. Accédez au dossier obtenu en utilisant la commande suivante dans le terminal :
 
    ```bash
    cd ASTRE
 
-3. Donnez-vous les droits en utilisant la commande suivante dans le terminal :
+4. Donnez-vous les droits en utilisant la commande suivante dans le terminal :
 
    ```bash
    chmod u+x astre.sh
 
-4. Exécutez l'application en utilisant la commande suivante dans le terminal :
+5. Exécutez l'application en utilisant la commande suivante dans le terminal :
 
    ```bash
    ./astre.sh
@@ -39,7 +43,11 @@ Il a été demandé aux étudiants, regroupés par groupe de 5 à 6 personnes, d
 
 ### Windows
 
-1. Décompressez Astre.rar
+1. Clonez l'application en utilisant la commande suivante dans le terminal :
+
+   ```bash
+   git clone https://github.com/ClemLy/ASTRE.git
+   
 2. Accédez au dossier obtenu en utilisant la commande suivante dans le terminal :
 
    ```bash
