@@ -24,7 +24,7 @@ Il a été demandé aux étudiants, regroupés par groupe de 5 à 6 personnes, d
 2. Accédez au dossier obtenu en utilisant la commande suivante dans le terminal :
 
    ```bash
-   cd Astre
+   cd ASTRE
 
 3. Donnez-vous les droits en utilisant la commande suivante dans le terminal :
 
